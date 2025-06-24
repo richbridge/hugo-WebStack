@@ -10,9 +10,9 @@ publishDir            = "public"				# 站点静态文件保存目录
 
 [params]
     author        = "richfan"
-    description   = "樊尘刹 网址导航 | Hugo 主题 BY Bio IT 爱好者"
-    upload        = "https://www.yuque.com/forms/share/1a1fee15-f7a9-4ee6-9dd4-b0ba9fef1871"      # 左侧导航栏的"网站提交"
-    about         = "https://github.com/shenweiyan/Knowledge-Garden/discussions/10"	          # 左侧导航栏的"关于导航"页面(./about)
+    description   = "樊尘刹 | 网址导航"
+    upload        = "https://www.yuque.com/forms/share/fca39c38-993f-49d6-94d4-549567103358"      # 左侧导航栏的"网站提交"
+    about         = "./about"	          # 左侧导航栏的"关于导航"页面(./about)
     repository    = "https://github.com/richbridge/WebStack"  
     enablePreLoad = true					# 网站完全打开前预加载动画
     textPreLoad   = "樊尘刹 网址导航"				# 预加载的动画文字, 只有当enablePreLoad=true时生效
@@ -24,8 +24,8 @@ publishDir            = "public"				# 站点静态文件保存目录
     fancybox      = true                                        # 使用 Fancybox 实现图片灯箱/放大功能
 
 [params.seo]    
-    baiduhmid       = 'efccc04cb44fc49faddac5876180b369'	# 百度统计 hm.src 的 ID
-    baiduSiteVer    = 'codeva-cCAOSG8MBO'			# 百度HTML标签验证(baidu-site-verification)
+    baiduhmid       = ''	# 百度统计 hm.src 的 ID
+    baiduSiteVer    = ''			# 百度HTML标签验证(baidu-site-verification)
     tj51laid        = ''                        		# 51.LA 网站统计
     tj51lack        = ''
     GoogleAdsClient = ''					# Google AdSense 
