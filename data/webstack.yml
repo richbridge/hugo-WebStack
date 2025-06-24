@@ -51,31 +51,31 @@
       description: 搜狗微信搜索，一搜即达。
 
 
-- taxonomy: 科研办公
+- taxonomy: 办公研究
   icon: fas fa-flask fa-lg
   list:
-    - term: 生物信息
+    - term: 信息查询
       links:
-        - title: NCBI
-          logo: ncbi.jpg
-          url: https://www.ncbi.nlm.nih.gov/
-          description: National Center for Biotechnology Information.
-        - title: Bioconda
-          logo: bioconda.jpg
-          url: https://anaconda.org/bioconda/
-          description: "Bioconda :: Anaconda.org."
-        - title: CPAN
-          logo: cpan.jpg
-          url: https://metacpan.org/
-          description: Search the CPAN.
-        - title: Galaxy Project
-          logo: galaxy_project.png
-          url: https://galaxyproject.org/
-          description: Galaxy Community Hub.
-        - title: R Project
-          logo: r-project.jpg
-          url: https://www.r-project.org/
-          description: https://www.r-project.org
+        - title: 国家企业信用信息公示系统
+          logo: 国徽.png
+          url: https://www.gsxt.gov.cn/
+          description: 国家企业信用信息公示系统
+        - title: 企知道
+          logo: https://www.qizhidao.com/favicon.ico
+          url: https://www.qizhidao.com/
+          description: 企知道是全球科创大数据AI平台，是中国科创企业全要素资源搜索、匹配、管理、运营服务商，汇集、治理全球科创数据，构建AI大模，加速创新要素向企业集聚，致力打造中国第一、国际一流的科创服务大数据基础设施。
+        - title: 爱企查
+          logo: https://zhengxin-pub.cdn.bcebos.com/logopic/fang_logo_min.jpg
+          url: https://aiqicha.baidu.com/
+          description: 爱企查是百度推出的企业信用查询工具,提供一站式的企业信息查询服务,能够快速查询浏览工商信息、企业法人股东、主要成员、变更记录、企业风险、企业股权、网站icp备案、对外投资、分支机构、年报、企业财务信息等相关信息,查询信息就到爱企查官网,省时省力！
+        - title: 企查查
+          logo: https://qcc-static.qcc.com/resources/web/omaterial/favicon.png
+          url: https://www.qcc.com/
+          description: 企查查是官方备案的企业征信机构，为您提供全国企业信息查询，包括企业工商信息查询，信用信息查询，经营状况查询等相关信息。查企业，查老板，查风险就上企查查!
+        - title: 天眼查
+          logo: https://cdn.tianyancha.com/wap/images/18blue/weixinlogo.png
+          url: https://www.tianyancha.com/
+          description: 天眼查专注服务于个人与企业信息查询,都在用的商业查询平台,为您提供公司查询,工商信息查询,企业查询,工商查询,企业信用信息查询等相关信息,帮您快速了解企业信息,企业工商信息,企业信用信息等企业经营和人员投资状况,查询更多企业信息就到天眼查官网！
         - title: Bioconductor
           logo: bioconductor.jpg
           url: http://www.bioconductor.org/
